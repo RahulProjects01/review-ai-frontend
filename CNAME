@@ -1,7 +1,0 @@
-mkdir public
-echo "reviewmycafe.in" > public/CNAME
-```
-
-Or manually create `public/CNAME` with this content:
-```
-reviewmycafe.in
